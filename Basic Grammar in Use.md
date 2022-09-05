@@ -1,4 +1,4 @@
-- [Basic Grammar in Use - Excercices](#basic-grammar-in-use---excercices)
+- [Basic Grammar in Use - Excercises](#basic-grammar-in-use---excercises)
   - [Unit 1 am/is//are](#unit-1-amisare)
     - [1.1 Write the short form (**she's** / **we aren't**, etc).](#11-write-the-short-form-shes--we-arent-etc)
     - [1.2 Write **am**, **is**, or **are**.](#12-write-am-is-or-are)
@@ -6,7 +6,7 @@
     - [1.4 Look at Anna's sentences in 1A. Now write sentences about yourself.](#14-look-at-annas-sentences-in-1a-now-write-sentences-about-yourself)
     - [1.5 Write sentences for the pictures. Use:](#15-write-sentences-for-the-pictures-use)
     - [1.6 Write true sentences, affirmative or negative. Use **is**/**isn't** or **are**/**aren't**.](#16-write-true-sentences-affirmative-or-negative-use-isisnt-or-arearent)
-    - [Write sentences, affirmative or negative. Use **I'm** / **I'm not**.](#write-sentences-affirmative-or-negative-use-im--im-not)
+    - [1.7 Write sentences, affirmative or negative. Use **I'm** / **I'm not**.](#17-write-sentences-affirmative-or-negative-use-im--im-not)
   - [Unit 2 am/is/are (questions)](#unit-2-amisare-questions)
     - [2.1 Find the right answers for the questions.](#21-find-the-right-answers-for-the-questions)
     - [2.2 Make questions with these words.](#22-make-questions-with-these-words)
@@ -24,8 +24,24 @@
     - [4.3 Make questions with these words. Put the words in the right order.](#43-make-questions-with-these-words-put-the-words-in-the-right-order)
     - [4.4 Write shor answers (**Yes, I am**. / **No, he isn't**, etc.)](#44-write-shor-answers-yes-i-am--no-he-isnt-etc)
   - [Unit 5 I do/work/like, etc. (simple present)](#unit-5-i-doworklike-etc-simple-present)
+    - [5.1 Write these verbs with -**s** or -**es**.](#51-write-these-verbs-with--s-or--es)
+    - [5.2 Complete the sentences about the people in the picrures. Use:](#52-complete-the-sentences-about-the-people-in-the-picrures-use)
+    - [5.3 Complete the sentences. Use:](#53-complete-the-sentences-use)
+    - [5.4 Write sentences from these word. Use the right form of the verb (**arrive** or **arrives**, etc.).](#54-write-sentences-from-these-word-use-the-right-form-of-the-verb-arrive-or-arrives-etc)
+    - [5.5 Write sentences about yourself. Use **always**/**never**/**often**/**usually**/**sometimes**.](#55-write-sentences-about-yourself-use-alwaysneveroftenusuallysometimes)
+  - [Unit 6 I don't...(simple present negative)](#unit-6-i-dontsimple-present-negative)
+    - [6.1 Write the negative](#61-write-the-negative)
+    - [6.2 Study the information and write sentencs with **like**.](#62-study-the-information-and-write-sentencs-with-like)
+    - [6.3 Write about yourself. Use:](#63-write-about-yourself-use)
+    - [6.4 Complete the sentencse. All of them are negative. Use **don't**/**doesn't** + these verbs:](#64-complete-the-sentencse-all-of-them-are-negative-use-dontdoesnt--these-verbs)
+    - [6.5 Put the verb in the correct form, affirmative or negative.](#65-put-the-verb-in-the-correct-form-affirmative-or-negative)
+  - [Unit 7 Do you...? (simple present questions)](#unit-7-do-you-simple-present-questions)
+    - [7.1 Write quesetions with **Do...?** and **Doess...?**](#71-write-quesetions-with-do-and-doess)
+    - [7.2 Make questions from thes words + **do**/**does**. Put the words in the right order.](#72-make-questions-from-thes-words--dodoes-put-the-words-in-the-right-order)
+    - [7.3 Complete the questions. Use the verbs:](#73-complete-the-questions-use-the-verbs)
+    - [7.4 Write short answers (**Yes, he does**./ **No, I don't**, etc.).](#74-write-short-answers-yes-he-does-no-i-dont-etc)
 
-# Basic Grammar in Use - Excercices
+# Basic Grammar in Use - Excercises
 
 ## Unit 1 am/is//are
 
@@ -77,12 +93,12 @@
 * scared
 * thirsty
 
-1. She's thirsty.
-2. They're cold.
-3. He'is cold.
-4. He's scared.
-5. Ther're hungry.
-6. She's angry.
+1. She's **thirsty**.
+2. They're **cold**.
+3. He'is **cold**.
+4. He's **scared**.
+5. Ther're **hungry**.
+6. She's **angry**.
 
 ### 1.6 Write true sentences, affirmative or negative. Use **is**/**isn't** or **are**/**aren't**.
 
@@ -93,7 +109,7 @@
 5. (diamonds / cheap) -> diamonds aren't cheap.
 6. (Quebec / in the United States) -> Quebec isn't in the United States.
 
-### Write sentences, affirmative or negative. Use **I'm** / **I'm not**.
+### 1.7 Write sentences, affirmative or negative. Use **I'm** / **I'm not**.
 
 7. (tired) -> I'm tired.
 8. (hungry) -> I'm not gungry.
@@ -172,12 +188,12 @@ The present continous is:
 * sit
 * wait
 
-1. She's eating an apple.
-2. He's waiting for a bus.
-3. They are playing soccer.
-4. He is lying one the floor.
-5. They're having breakfast.
-6. She's sitting on the table.
+1. She's **eating** an apple.
+2. He's **waiting** for a bus.
+3. They are **playing** soccer.
+4. He is **lying** one the floor.
+5. They're **having** breakfast.
+6. She's **sitting** on the table.
 
 ### 3.2 Complete the sentences. Use these verbs:
 * build
@@ -189,14 +205,14 @@ The present continous is:
 * take
 * work
 
-1. Please be quiet. I'm working.
-2. "Where's John?" "He's in the kitchen. He is cooking."
-3. "You are standing on my foot." "Oh, I'm sorry."
-4. Look! Somebody is swimming in the river.
-5. We're here on vacation. We are staying at a hotel on the beach.
-6. "Where's Sue?" "She is taking a shower."
-7. They are building a new hotel howntown.
-8. I am leaving now. Goodbye!
+1. Please be quiet. I'm **working**.
+2. "Where's John?" "He's in the kitchen. He is **cooking**."
+3. "You are **standing** on my foot." "Oh, I'm sorry."
+4. Look! Somebody is **swimming** in the river.
+5. We're here on vacation. We are **staying** at a hotel on the beach.
+6. "Where's Sue?" "She is **taking** a shower."
+7. They are **building** a new hotel howntown.
+8. I am **leaving** now. Goodbye!
 
 ### 3.3 Look at the picture. Write sentences about Jane. Use **She's-ing** or **She isn't-ing**.
 
@@ -225,9 +241,6 @@ The present continous is:
 
 ## Unit 4 are you doing? (present continuous questions)
 
-Study the word order:
-**is/are** + subject + **-ing**
-
 ### 4.1 Look at the picrures and write the questins.
 
 1. Are you watching ir? -> No, you can turn it off.
@@ -246,12 +259,12 @@ Study the word order:
 * look at
 * read
 
-1. What are you reading?
-2. Where is she going?
-3. What are you eating?
-4. Why are you crying?
-5. What are they looking at?
-6. Why is he laughing?
+1. What are you **reading**?
+2. Where is she **going**?
+3. What are you **eating**?
+4. Why are you **crying**?
+5. What are they **looking at**?
+6. Why is he **laughing**?
 
 ### 4.3 Make questions with these words. Put the words in the right order.
 
@@ -276,4 +289,196 @@ Study the word order:
 
 ## Unit 5 I do/work/like, etc. (simple present)
 
-I **have** -> he/she/it **has**
+### 5.1 Write these verbs with -**s** or -**es**.
+
+1. (read) -> reads
+2. (think) -> thinks
+3. (fly) -> flies
+4. (dance) -> dances
+5. (have) -> has
+6. (finish) -> finishes
+
+### 5.2 Complete the sentences about the people in the picrures. Use:
+
+* eat
+* go
+* live
+* play
+* play
+* sleep
+
+1. He **plays** the piano.
+2. They **live** in a very big house.
+3. She **eats** a lot of fruit.
+4. He **plays** t tennis.
+5. They **go** to the movies a lot.
+6. He **sleeps** seven hours a night.
+
+### 5.3 Complete the sentences. Use:
+
+* boil
+* close
+* cost
+* cost
+* like
+* like
+* meet
+* open
+* speak
+* teach
+* wash
+
+1. Maria **speaks** four languages.
+2. Banks usually **open** at 9.00 in the morning.
+3. The art museum **closes** at 5:00 in the afternoon.
+4. Jessica is a teacher. She **teaches** math to young children.
+5. My job is very interesting. I **meet** a lot of people.
+6. Mike's car is always dirty. He never **washes** it.
+7. Food is expensive. It **costs** a lot of money.
+8. Shoes are expensive. They **cost** a lot of money.
+9. Water **boils** at 100 degrees Celsius.
+10. Julia an I are good frieds. I **like** her, and she **likes** me.
+
+###  5.4 Write sentences from these word. Use the right form of the verb (**arrive** or **arrives**, etc.).
+
+1. (always / early / Sue / arrive) -> Sue always arrives early.
+2. (to the movies / never / I / go) -> I never go to the movies.
+3. (work / Hannah / hard / always) -> Hannah always works hard.
+4. (like / chocolate / children / usually) -> Children usually like chocolate.
+5. (Julia / parties / enjoy / always) -> Julia always enjoys parties.
+6. (often / people's names / I / forget) -> I often forget people's names.
+7. (TV / Nick / watch / never) -> Nick never watches TV.
+8. (usually / dinner / we / have / at 6:30) -> We usually have dinner at 6:30.
+9. (Jenn / always / nice clothes / wear) -> Jenn always wears nice clothes.
+
+### 5.5 Write sentences about yourself. Use **always**/**never**/**often**/**usually**/**sometimes**.
+
+1. (watch TV in the evening) -> I never watch TV in the evening.
+2. (read in bed) -> I never read in bed.
+3. (get up before 7:00) -> I never get up before 7:00.
+4. (go to work/school by bus) -> I never go to work by bus.
+5. (drink coffee in the morning) -> I usually drink cofee in the morning.
+
+
+## Unit 6 I don't...(simple present negative)
+
+### 6.1 Write the negative
+
+1. I play the piano very well. -> I don't play piano very well.
+2. Anna plays the piano very well. -> Anna doesn't play the piano very well.
+3. They know my phone number. -> They don't know my phone number.
+4. We work very hard. -> We don't work very hard.
+5. Mike has a car. -> Mike doesn't have a car.
+6. You do the same thing every day. -> You don't do the same thing every day.
+
+### 6.2 Study the information and write sentencs with **like**.
+
+1. Bill and Rose **like** classical music.
+   Carol **doesn't like** classical music.
+   I **like** classical music.
+2. Bill and Rose **don't like** boxing.
+   Carol **likes** boxing.
+   I **like** boxing.
+3. Bill and Rose **like** horror movies.
+   Carol **doesn't like** horror movies.
+   I **like** horror movies.
+
+### 6.3 Write about yourself. Use:
+
+* **I never...**
+* **I... a lot**
+* **I don't... very often**
+
+1. (watch TV) -> **I don't** watch TV **very often**.
+2. (go to the theater) ->  ->  go to the theater.
+3. (ride a bike) -> **I** ride a bike **a lot**.
+4. (eat in restaurants) -> **I don't** eat in restaurants **very often**.
+5. (travel by train) -> **I don't** travel by train **very often**.
+
+### 6.4 Complete the sentencse. All of them are negative. Use **don't**/**doesn't** + these verbs:
+
+* cost
+* go
+* know
+* rain
+* see
+* use
+* wear
+
+1. The weather here is usually nice. It **doesn't rain** a lot.
+2. Andy has a car, but he **doesn't use** it very often.
+3. Dan and his friends like movies, but they **don't go** to the movies very often.
+4. Amanda is married, but she **doesn't wear** a ring.
+5. I **don't know** much about policits. I'm not interested in it.
+6. The Regent Hoten isn't expensive. It **doesn't cost** much to stay here.
+7. David lives near us, but we **don't see** him very often.
+
+### 6.5 Put the verb in the correct form, affirmative or negative.
+
+1. Lauren **speaks** four languages - English, Korean, Arabic, and Spanish. (speak)
+2. I **don't like** my job. It's very boring. (like)
+3. "Where's David?" "I'm sorry. I **don't know**. (know)
+4. Sue is very quiet person. She **doesn't talk** very much. (talk).
+5. Andy **drinks** a lot of coffe. It's his favorite drink (drink).
+6. That's not true! I **don't believe** it! (believe)
+7. That's a very beautiful picture. I **like** it a lot. (like)
+8. John is a vegetarian. He **doesn't eat** meat. (eat).
+
+## Unit 7 Do you...? (simple present questions)
+
+### 7.1 Write quesetions with **Do...?** and **Doess...?**
+
+1. I like chocolate. How about you? -> **Do** you like chocolate?
+2. I play tennis. How about you? -> **Do** you play tennis?
+3. You live near here. How about Emily? -> **Does** Emily live near here.
+4. Tom plays tennis. How about his friends? -> **Do** his friends play tennis?
+5. You speak English. How about your brother? -> **Does** your brother speak English?
+6. I do yoga every morning. How about you? -> **Do** you do yoga every morning?
+7. Sue often travels on business. How about Eric? -> **Does** Eric often travel on business?
+8. I want to be famous. How about you? -> **Do** you want to be famous?
+9. You work hard. How about Anna? -> **Does** Anna work hard?
+
+### 7.2 Make questions from thes words + **do**/**does**. Put the words in the right order.
+
+1. (where / live / your parents) -> Where **do** your parents live.
+2. (you / early / always / get up) -> **Do** you always get up early?
+3. (how often / TV / you / watch) -> How often **do** you watch TV?
+4. (you / want / what / for dinner) -> What **do** you want for dinner?
+5. (like / you / football) -> **Do** you like football?
+6. (your brother / like / football) -> **Does** your brother like football?
+7. (what / you / do / in your free time) -> What **do** you do in your free time?
+8. (your sister / work / Where) -> Where **Does** your sister work?
+9. (breakfast / always / you / have) -> **Do** you always have breakfast?
+10. (what / mean / this word) -> What **does** this word mean?
+11. (in the winter / snow / it / here) -> **Does** it snow here in the winter?
+12. (go / usually / to bed / what time / you) -> What time **do** you usually go to bed?
+13. (how much / to call Mexico / it / cost) -> How much **does** it cost to call Mexico?
+14. (you / for breakfast / have / usually / what) -> What **do** you usually have for brekfast?
+
+### 7.3 Complete the questions. Use the verbs:
+
+* do
+* do
+* enjoy
+* get
+* like
+* start
+* tech
+* work
+
+1. What **do you do**? -> I work in a bookstore.
+2. **Do you like** it? -> It's OK.
+3. What time **do you start** in the morning? -> At 9:00.
+4. **Do you work** on Sundays? -> Sometimes.
+5. How **do you get** to work? -> Usually by bus.
+6. And your husband. What **does he do**? -> He's a teacher.
+7. What **does he teach**? -> Science.
+8. **Does he enjoy** his job? -> Yes, he loves it.
+
+### 7.4 Write short answers (**Yes, he does**./ **No, I don't**, etc.).
+
+1. Do you watch TV a lot? -> No, I don't.
+2. Do you live in a big city? -> Yes, I do.
+3. Do you ever ride a bike? -> Yes, I do.
+4. Does it rain a lot where you live? -> Yes, it does
+5. Do you play the piano? -> No, I don't.
