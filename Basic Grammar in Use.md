@@ -40,6 +40,10 @@
     - [7.2 Make questions from thes words + **do**/**does**. Put the words in the right order.](#72-make-questions-from-thes-words--dodoes-put-the-words-in-the-right-order)
     - [7.3 Complete the questions. Use the verbs:](#73-complete-the-questions-use-the-verbs)
     - [7.4 Write short answers (**Yes, he does**./ **No, I don't**, etc.).](#74-write-short-answers-yes-he-does-no-i-dont-etc)
+  - [Unit 8 I am doing (present continous) and I do (simple present)](#unit-8-i-am-doing-present-continous-and-i-do-simple-present)
+    - [8.1 Answer the questions about the picrues.](#81-answer-the-questions-about-the-picrues)
+    - [8.2 Complete the senences with **am**/**is**/**are** or **do**/**don't**/**does**/**doesn't**.](#82-complete-the-senences-with-amisare-or-dodontdoesdoesnt)
+    - [8.3 Put the verb in the present continous (**I am doing**) or the simple present (**I do**).](#83-put-the-verb-in-the-present-continous-i-am-doing-or-the-simple-present-i-do)
 
 # Basic Grammar in Use - Excercises
 
@@ -482,3 +486,60 @@ The present continous is:
 3. Do you ever ride a bike? -> Yes, I do.
 4. Does it rain a lot where you live? -> Yes, it does
 5. Do you play the piano? -> No, I don't.
+
+## Unit 8 I am doing (present continous) and I do (simple present)
+
+### 8.1 Answer the questions about the picrues.
+
+    1.
+        a. Does he takes photographs? -> Yes, he does.
+        b. Is he taking a photograph? -> No, he isn't.
+        c. Whay is he doing? -> He's taking a bath.
+
+    2.
+        a. Is she driving a bus? -> No, she isn't.
+        b. Does she drive a bus? -> Yes, she does.
+        c. What is she doing? -> She's playing the piano.
+
+    3.
+        a. Does he wash windows? -> Yes, he does?
+        b. Is he washing a window? -> Yes, he is?
+        c. What is he doing? -> He's washing a window?
+        
+    4.
+        a. Are tehy teaching? -> No, they aren't.
+        b. Do tehy teach? -> Yes, they do.
+        c. What do they do? -> They teach.
+        
+### 8.2 Complete the senences with **am**/**is**/**are** or **do**/**don't**/**does**/**doesn't**.
+
+1. Excuse me, **do** you speak English?
+2. "Where's Kate?" "I **don't** know."
+3. What's so funny? Why **are** you laughing?
+4. "What **does** your sister do?" "She's a dentist."
+5. It **is** raining. I **don't** want to go out in the rain.
+6. "Where **do** you come from?" "Canada."
+7. How much **does** it cost to stay at this hotel? is it expensive?
+8. Steve is a good tennis player, but he **doesn't** play very often.
+
+### 8.3 Put the verb in the present continous (**I am doing**) or the simple present (**I do**).
+
+1. Excuse me, **do you speak** (you/speeak) English?
+2. "Where's Tom?" "**He's taking** (he/take) a shower."
+3. **I don't watch** (I/not/watch) TV very often.
+4. Listen! Somebody **is singing** (sing).
+5. Sarah is tired. **She wants** (she/want) to go home.
+6. How often **do you use** (you/use) your car? Every day?
+7. "Excuse me, but **you are sitting** (you/sit) in my seat." "Oh, I'm sory."
+8. I'm sorry, **I don't understand** (I/not/understand). Can you speak more slowly?
+9. It's late. I'm going (I/go) home now. *Are you coming** with me (you/come)?
+10. Whay time **does your father finish** (your father/finish) work every day?
+11. You can turn off the radio. **I'm not listening** (I/not/listen) to it?
+12. "Where's Eric?" "In the kitchen. **He is cokking** (he/cook) something."
+13. Josh **doesn't usually dirve** (not/usually/drive) to work. He **usually walk** (usually/walk).
+14. Sue **doesn't like** coffe. **She prefers** (she/prefer) tea.
+
+
+
+
+
