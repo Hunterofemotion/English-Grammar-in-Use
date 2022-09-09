@@ -44,6 +44,12 @@
     - [8.1 Answer the questions about the picrues.](#81-answer-the-questions-about-the-picrues)
     - [8.2 Complete the senences with **am**/**is**/**are** or **do**/**don't**/**does**/**doesn't**.](#82-complete-the-senences-with-amisare-or-dodontdoesdoesnt)
     - [8.3 Put the verb in the present continous (**I am doing**) or the simple present (**I do**).](#83-put-the-verb-in-the-present-continous-i-am-doing-or-the-simple-present-i-do)
+  - [Unit 9 I have ... and I've got ...](#unit-9-i-have--and-ive-got-)
+    - [9.1 Write these sentences with **have**/**has** or **don't have** / **doesn't have**. The meaning is the same.](#91-write-these-sentences-with-havehas-or-dont-have--doesnt-have-the-meaning-is-the-same)
+    - [9.2 Write these sentences with **got**. The meaning is the same.](#92-write-these-sentences-with-got-the-meaning-is-the-same)
+    - [9.3 Read the questions and andwers. Then write sentences about Mark.](#93-read-the-questions-and-andwers-then-write-sentences-about-mark)
+    - [9.4 Complete the sentences with **have**, **has**, **don't have**, or **doesn't have**.](#94-complete-the-sentences-with-have-has-dont-have-or-doesnt-have)
+    - [9.5 Complete the sentences. Use **have**/**has** or **don't have** / **doesn't have** with:](#95-complete-the-sentences-use-havehas-or-dont-have--doesnt-have-with)
 
 # Basic Grammar in Use - Excercises
 
@@ -540,6 +546,59 @@ The present continous is:
 14. Sue **doesn't like** coffe. **She prefers** (she/prefer) tea.
 
 
+## Unit 9 I have ... and I've got ...
 
+### 9.1 Write these sentences with **have**/**has** or **don't have** / **doesn't have**. The meaning is the same.
 
+1. They have got two children. -> They have two children.
+2. She hasn't goy a key. -> She doesn't have a key.
+3. He has got a new job. -> He has a new job.
+4. Have you got an umbrella? -> Do you have an umbrella?
+5. We have got a lot of work to do. -> We have a lot of work to do.
+6. I haven't got your phone number. -> I don't have your phone number.
+7. Has your father got a car? Does your father have a car?
+8. How much money have we got? -> How much money do we have?
 
+### 9.2 Write these sentences with **got**. The meaning is the same.
+
+1. Do you have any money? -> Have you got any money?
+2. I don't have many clothes. -> I haven't got many clothes.
+3. Does Tom have a brother? -> Has Tom got a brother?
+4. How many children do they have? -> How many children have they got?
+5. Do you have any questions? -> Have you got any questions?
+6. Sam doesn't have a job. -> Sam hasn't got a job.
+
+### 9.3 Read the questions and andwers. Then write sentences about Mark.
+
+1. Do you have a car? No. -> He doesn't have a car.
+2. Do you have a bike? Yes. -> He has a bike.
+3. Do you have a dog? No. -> He doesn't have a dog.
+4. Do you have a cell phone? Yes. -> He has a cell phone.
+5. Do you have a watch? No. -> He doesn't have a watch.
+6. Do you have any brotheres or sisters? Yes, two brothers and a sister. -> He has two brothers and a sister.
+
+### 9.4 Complete the sentences with **have**, **has**, **don't have**, or **doesn't have**.
+
+1. Sarah **doesn't have** a car. She goes everywhere by bike.
+2. They like animals. They **have** three dogs and two cats.
+3. Matt isn't happy. He **has** a lot of problems.
+4. Thye are always busy. They **don't have** much free time.
+5. "What's wrong?"  "I **have** something in my eye."
+6. "Where's my pen?" "I don't know. I **don't have** it."
+7. Melissa wants to go to the concert, but she **doesn't have** a ticket.
+
+### 9.5 Complete the sentences. Use **have**/**has** or **don't have** / **doesn't have** with:
+
+* a lot of friends
+* much time
+* a headachee
+* six legs
+* a job
+* a key
+
+1. I'm not feeling well. I **have a heeadache**.
+2. Everybody likes Tom. He **has a lot of friends**.
+3. She can't open the door. She **doesn't have a key**.
+4. Hurry! We **don't have much time**.
+5. An insect **has sig legs**.
+6. I'm unemployed. I **don't have a job**.
