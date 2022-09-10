@@ -79,4 +79,30 @@ Table: *Question*
 |    Does |      it | **have** |
 
 
+## Unit 9 I have ... and I've got ...
 
+*Simple present*
+
+| subject | have/has |  or   | subject | have/has/got | short form  |
+| ------: | :------- | :---: | ------: | :----------- | :---------- |
+|       I | **have** |  or   |       I | **have got** | I've got    |
+|      we | **have** |  or   |      we | **have got** | we've got   |
+|     you | **have** |  or   |     you | **have got** | you've got  |
+|    they | **have** |  or   |    they | **have got** | they've got |
+|      He | **has**  |  or   |      He | **has got**  | he's got    |
+|     She | **has**  |  or   |     She | **has got**  | she's got   |
+|      It | **has**  |  or   |      It | **has got**  | it's got    |
+
+*Negative*
+
+|       subject | don't/doesn't | have | or  |       subject | haven't/hasn't | got  |
+| ------------: | :------------ | :--- | --- | ------------: | :------------- | :--- |
+| I/you/we/they | **don't**     | have | or  | I/you/we/they | **haven't**    | got  |
+|     he/she/it | **doesn't**   | have | or  |     he/she/it | **hasn't**     | got  |
+
+*Question*
+
+| do/doesn't | subject       | have | or  |     have | subject       | got  |
+| ---------: | :------------ | :--- | --- | -------: | :------------ | :--- |
+|     **do** | I/you/we/they | have | or  | **have** | I/you/we/they | got  |
+|   **does** | he/she/it     | have | or  |  **has** | he/she/it     | got  |
