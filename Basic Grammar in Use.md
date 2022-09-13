@@ -50,6 +50,22 @@
     - [9.3 Read the questions and andwers. Then write sentences about Mark.](#93-read-the-questions-and-andwers-then-write-sentences-about-mark)
     - [9.4 Complete the sentences with **have**, **has**, **don't have**, or **doesn't have**.](#94-complete-the-sentences-with-have-has-dont-have-or-doesnt-have)
     - [9.5 Complete the sentences. Use **have**/**has** or **don't have** / **doesn't have** with:](#95-complete-the-sentences-use-havehas-or-dont-have--doesnt-have-with)
+  - [Unit 10 was/were](#unit-10-waswere)
+    - [10.1 Where were these people at 3:00 yesterday afternoon?](#101-where-were-these-people-at-300-yesterday-afternoon)
+    - [10.2 Write **am**/**is**/**are** (present) or **was**/**were** (past).](#102-write-amisare-present-or-waswere-past)
+    - [10.3 Write **was**/**were** or **wasn't**/**weren't**.](#103-write-waswere-or-wasntwerent)
+    - [10.4 Write questions from these words + **was**/**were**. Put the words in the right order.](#104-write-questions-from-these-words--waswere-put-the-words-in-the-right-order)
+  - [11 worked/got/went, etc. (simple past)](#11-workedgotwent-etc-simple-past)
+    - [11.1 Complete the sentences. Use a verb from the box.](#111-complete-the-sentences-use-a-verb-from-the-box)
+    - [11.2 Read about Liz's trip to Madrir. Put the verbs in the correct form.](#112-read-about-lizs-trip-to-madrir-put-the-verbs-in-the-correct-form)
+    - [11.3 Write sentences about the past (**yesterday** / **last week**, etc.).](#113-write-sentences-about-the-past-yesterday--last-week-etc)
+    - [11.4 Write a sentence with just for each picture.](#114-write-a-sentence-with-just-for-each-picture)
+  - [Unit 12 I didn't... Did you...? (simple past negative and questions)](#unit-12-i-didnt-did-you-simple-past-negative-and-questions)
+    - [12.1 Complete these sentences with the verb in the negative.](#121-complete-these-sentences-with-the-verb-in-the-negative)
+    - [12.2 Write questions with **Did...?**](#122-write-questions-with-did)
+    - [12.3 What did you do yesterday? Write affirmative or negative sentences.](#123-what-did-you-do-yesterday-write-affirmative-or-negative-sentences)
+    - [12.4 Write B's questions. Use:](#124-write-bs-questions-use)
+    - [12.5 Put the verb in the correct form - affirmative, negative, or question.](#125-put-the-verb-in-the-correct-form---affirmative-negative-or-question)
 
 # Basic Grammar in Use - Excercises
 
@@ -600,5 +616,189 @@ The present continous is:
 2. Everybody likes Tom. He **has a lot of friends**.
 3. She can't open the door. She **doesn't have a key**.
 4. Hurry! We **don't have much time**.
-5. An insect **has sig legs**.
+5. An insect **has six legs**.
 6. I'm unemployed. I **don't have a job**.
+
+
+## Unit 10 was/were
+
+### 10.1 Where were these people at 3:00 yesterday afternoon?
+
+1. Dan was in bed.
+2. Jack and kate were at the movies.
+3. Sue was at the train station.
+4. Mr. and Mrs. Hall were at a restaurant.
+5. Ben was at the beach.
+6. I was in my underconstruction house.
+
+### 10.2 Write **am**/**is**/**are** (present) or **was**/**were** (past).
+
+1. Last year she *was* 22, sho she **23** now.
+2. Today the weather **is** nice, but yesterday it **was** very cold.
+3. I **am** hugry. Can I have something to eat?
+4. I feel fine this morning, but I **was** very tired last night.
+5. Where **were** you at 11:00 las Friday morning?
+6. Don't buy those shoes. They **are** very expensive.
+7. I like your new jacket. **Was** it expensive.
+8. This time last year I **was** in Paris.
+9. "Where **are** Sam and Joe?" "I don't know. They **were** here a few minutes ago."
+
+### 10.3 Write **was**/**were** or **wasn't**/**weren't**.
+
+1. We wern't happy with the hotel. Our room **was** very small, and it **wasn't** clena.
+2. Nick **wasn't** at work last week because he **was** sick. He's better now.
+3. Yesterdat **was** a holiday, so the banks **were** closed. They're open today.
+4. "**Were** Kate and Bill at the party?" "Kate **was** tere, but Bill **wasn't**."
+5. Where are my keys? They **were** on the table, but they're not there now.
+6. You **weren't** home last night. Where **were** you?
+
+### 10.4 Write questions from these words + **was**/**were**. Put the words in the right order.
+
+1. (late / you / this morning / why?) -> The traffic was bad.
+   * Why were you late this morning? 
+2. (difficult / your exam?) -> No, it was easy.
+   * Was your exam difficult?
+3. (last week / where /Sue and Chris?) -> They were on vacation.
+   * Where were Sue and Chris last week?
+4. (your new camera / how much?) -> One hundred and twenty dollars.
+   * How much was your new camera?
+5. (angry / you / yesterday / why?) -> Because you were late.
+   * Why were you angry yesterday?
+6. (nice / the weather / last week?) -> Yes, it was beautiful.
+   * Was the weather nice last week?
+
+## 11 worked/got/went, etc. (simple past)
+
+### 11.1 Complete the sentences. Use a verb from the box.
+
+* brush
+* die
+* end
+* enjoy
+* happen
+* open
+* rain
+* start
+* stay
+* want
+
+1. I **brushed** my theeth three times yesterday.
+2. It was hoy in the room, so I **opened** the window.
+3. The movies was very long. It **started** at 7:15 and **ended** at 10:00.
+4. When I was a child, I **wanted** to be a doctor.
+5. The accident **happened** las Sunday afternoon.
+6. The weather is nice today, but yesterday it **rained** all day.
+7. We **enjoyed** our vacation last year. We **stayed** at a very nice place.
+8. Anna's grandfather **died** when he was 90 years old.
+
+### 11.2 Read about Liz's trip to Madrir. Put the verbs in the correct form.
+
+Last Tuesday, Luz (1) **flew* from Los Angeles to Madrid.
+She (2) **got** up at 6:00 in the morning and (3) **had** a cup
+of coffee. At 7:15 she (4) **left** home and (5) **drove** to the
+airport. When she (6) **got** there, she (7) **parked** the car,
+(8) **walked** to the terminal, and (9) **checked** in. Then she
+(10) **had** breakfast at the airport café and (11) **waited** for
+her flight. The plane (12) **departed** on time and (13) **arrived** in
+Madrid 13 hours later. Finally, she (14) **took** a taxi from the airport
+to her hotel downtown.
+
+### 11.3 Write sentences about the past (**yesterday** / **last week**, etc.).
+
+1. James always goes to work by car. Yesterday **he went to work by car.**
+2. Rachel often loses her keys. She **lost** her keys last week.
+3. Kate meets her friends every night. She **met her friends** last night.
+4. I buy a newspaper every day. Yesterday I **bought a newspaper**.
+5. We often go to the movies on weekends. Last Sunday we **went to the movies**.
+6. I eat an orange every day. Yesterday I **ate an orange**.
+7. Tom always takes a shower in the morning. This morning **he took a shower**.
+8. Our friends often come to see us. They **came to see us** last Friday.
+
+### 11.4 Write a sentence with just for each picture.
+
+1. They just arrived.
+2. He just got up.
+3. They just bought a car.
+4. The race just started.
+
+
+## Unit 12 I didn't... Did you...? (simple past negative and questions)
+
+### 12.1 Complete these sentences with the verb in the negative.
+
+1. I saw Rachel, but I **didn't see** Jenn.
+2. They worked on Monday, but they **didn't work** on Tuesday.
+3. We went to the post office, but we **didn't go** to the bank.
+4. She had  a pen, but she **didn't have** any paper.
+5. Jack did some work in the yard, but he **didn't do** any work in the house.
+
+### 12.2 Write questions with **Did...?**
+
+1. I watched TV last night. How about you? -> Did you watch TV last night?
+2. I enjoyed the party. How about you? -> Did you enjoy the party?
+3. I had a nice vacation. How about you? -> Did you have a nice vacaction?
+4. I finished work early. How about you? -> Did you finish work early?
+5. I slept well last night. How about you? -> Did you sleep well last night.
+
+### 12.3 What did you do yesterday? Write affirmative or negative sentences.
+
+1. (watch TV) -> I didn't watch TV.
+2. (get up before 7:00) -> I didn't get up before 7:00.
+3. (take a shower) -> I didn't take a shower.
+4. (buy a magazine) -> I didn't buy a magazine.
+5. (eat meat) -> I ate meat.
+6. (go to bed before 10:30) -> I didn't go to bed before 10:30.
+
+### 12.4 Write B's questions. Use:
+
+* cost
+* get to work
+* go
+* go to bed late
+* happen
+* have a nice time
+* stay
+* win
+
+1. A: We went to chicago last month.
+   B: Where **did you stay**?
+   A: With some friends.
+
+2. A: I was late for the meeting.
+   B: What time **did you get to work**?
+   A: 9:30.
+
+3. A: I playerd tennis this afternoon.
+   B: **Did you win**?
+   A: No, I lost.
+   
+4. A: I had a nice vacation.
+   B: Good. Where **did you go?**
+   C: To the mountains.
+   
+5. A: We came home by taxi.
+   B: How much **did it cost**?
+   C: Twenty dollars.
+   
+6. A: I'm tired this morning.
+   B: **Did you go to bed late**?
+   A: No, but I didn't sleep very well.
+   
+7. A: We went to the beach yesterday.
+   B: **Did you have a nice time**?
+   A; Yes, it was great.
+
+8. A: The window is broken.
+   B: How **did it happen**?
+   A: I don't know.
+
+### 12.5 Put the verb in the correct form - affirmative, negative, or question.
+
+1. We went to the movies, but the film wasn't very good. We **didn't enjoy** it. (enjoy)
+2. Tom **bought** some new clothes yesterday - two shirts, a jacket, and a sweater. (but)
+3. "**Did it rain** yesterday?" "No, it was a nice day." (rain)
+4. We were tired, so we **didn't stay** long at the party. (stay)
+5. It was very warm in the room, so I **opened** a window. (open)
+6. "Did you call Chris this morning?" "No, I **didn't have** time." (have)
+7. "I cut my hand this morning." "How **did you do** that?" (do)
+8. "Why weren't you at the meeting yesterday?" "I **didn't know** about it." (know)
