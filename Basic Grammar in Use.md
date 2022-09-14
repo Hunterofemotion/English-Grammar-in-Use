@@ -66,6 +66,11 @@
     - [12.3 What did you do yesterday? Write affirmative or negative sentences.](#123-what-did-you-do-yesterday-write-affirmative-or-negative-sentences)
     - [12.4 Write B's questions. Use:](#124-write-bs-questions-use)
     - [12.5 Put the verb in the correct form - affirmative, negative, or question.](#125-put-the-verb-in-the-correct-form---affirmative-negative-or-question)
+  - [Unit 13 I was doing (past continous)](#unit-13-i-was-doing-past-continous)
+    - [13.1 Look at the pictures. Where were these people at 3:00 yesterday afternoon? And what were they doing? Write two sentences for each picture.](#131-look-at-the-pictures-where-were-these-people-at-300-yesterday-afternoon-and-what-were-they-doing-write-two-sentences-for-each-picture)
+    - [13.2 Sarah did a lot of thing yesterdat. Look at the pictures and complete the sentences.](#132-sarah-did-a-lot-of-thing-yesterdat-look-at-the-pictures-and-complete-the-sentences)
+    - [13.3 Complete the questions. Use **was**/were -ing**. Use **what**/**where**/**why** if necesary.](#133-complete-the-questions-use-waswere--ing-use-whatwherewhy-if-necesary)
+    - [13.4 Look at the picture. You saw Joe in the street yesterday afternoon. What was he doing? Write affirmative or negative sentences.](#134-look-at-the-picture-you-saw-joe-in-the-street-yesterday-afternoon-what-was-he-doing-write-affirmative-or-negative-sentences)
 
 # Basic Grammar in Use - Excercises
 
@@ -802,3 +807,42 @@ to her hotel downtown.
 6. "Did you call Chris this morning?" "No, I **didn't have** time." (have)
 7. "I cut my hand this morning." "How **did you do** that?" (do)
 8. "Why weren't you at the meeting yesterday?" "I **didn't know** about it." (know)
+
+## Unit 13 I was doing (past continous)
+
+### 13.1 Look at the pictures. Where were these people at 3:00 yesterday afternoon? And what were they doing? Write two sentences for each picture.
+
+1. **Rachel was home. She was watching TV**.
+2. Jack and Kate **were at the movies**. They **were watching a movie.**
+3. Tom **was in his war. He was driving his car.**
+4. **Amanda was at the train station. She was waiting for a train.**
+5. **Mr. and Mrs. Hall were in the park. They were walking.**
+6. And you? I **was in my room. I was working.**
+
+### 13.2 Sarah did a lot of thing yesterdat. Look at the pictures and complete the sentences.
+
+1. At 8:45 she was washing her car.
+2. At 10:45 she was playing tennis.
+3. At 8:00 she was reading the newspaper.
+4. At 12:10 she was cooking.
+5. At 7:15 she was having breakfast.
+6. At 9:30 she cleaning the kitchen.
+
+### 13.3 Complete the questions. Use **was**/were -ing**. Use **what**/**where**/**why** if necesary.
+
+1. (you/live) Where were you living in 2012? -> In Brazil.
+2. (you/do) What were you doing at 2:00? -> I was sleep.
+3. (it/rain) Was it raining when you got up? -> No, it was sunny.
+4. (Sue/drive) Why was Sue driving so fast? -> Because she was late.
+5. (Tom/wear) Was Tom wearing a suit yesterday? -> No, a T-shirt and jeans.
+
+### 13.4 Look at the picture. You saw Joe in the street yesterday afternoon. What was he doing? Write affirmative or negative sentences.
+
+1. (wear / a jacket) He wasn't wearing a jacket.
+2. (carry / a bag) He was carying a bag.
+3. (ride / a bike) He wasn't riding a bike. 
+4. (go / home) He wasn't going home.
+5. (wear / a hat) -> He was wearing a hat.
+6. (carry / an umbrella) He wasn't carying an umbrella.
+7. (go / to the dentist) He wasn't going to the dentist.
+8. (eat / an ice cream cone) He was eating an ice cream cone.
