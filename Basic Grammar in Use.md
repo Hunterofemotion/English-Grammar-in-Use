@@ -71,6 +71,9 @@
     - [13.2 Sarah did a lot of thing yesterdat. Look at the pictures and complete the sentences.](#132-sarah-did-a-lot-of-thing-yesterdat-look-at-the-pictures-and-complete-the-sentences)
     - [13.3 Complete the questions. Use **was**/were -ing**. Use **what**/**where**/**why** if necesary.](#133-complete-the-questions-use-waswere--ing-use-whatwherewhy-if-necesary)
     - [13.4 Look at the picture. You saw Joe in the street yesterday afternoon. What was he doing? Write affirmative or negative sentences.](#134-look-at-the-picture-you-saw-joe-in-the-street-yesterday-afternoon-what-was-he-doing-write-affirmative-or-negative-sentences)
+  - [Unit 14 I was doing (past continuous) and I did (simple past)](#unit-14-i-was-doing-past-continuous-and-i-did-simple-past)
+    - [14.1 Look at the pictrures. Put the verbs in the correct form, past continous or simple past.](#141-look-at-the-pictrures-put-the-verbs-in-the-correct-form-past-continous-or-simple-past)
+    - [14.2 Put the verb into the past continous or simple past.](#142-put-the-verb-into-the-past-continous-or-simple-past)
 
 # Basic Grammar in Use - Excercises
 
@@ -846,3 +849,61 @@ to her hotel downtown.
 6. (carry / an umbrella) He wasn't carying an umbrella.
 7. (go / to the dentist) He wasn't going to the dentist.
 8. (eat / an ice cream cone) He was eating an ice cream cone.
+
+## Unit 14 I was doing (past continuous) and I did (simple past)
+
+### 14.1 Look at the pictrures. Put the verbs in the correct form, past continous or simple past.
+
+1. Emily **broke** (break) her arm last week.
+   It **happened** (happen) when she **was painting** *paint(her
+   room. She **fell** (fall) off the ladder.
+   
+2. The train **arrived**
+   at the station, and Adriana **got**
+   (get) off. Two friends of hers, Jon and
+   Rachel, **were waiting** (wait) to
+   meet her.
+
+3. Yesterday Sue **was walking**
+   (walk) down the street when she
+   **met** (meet) James.
+   He **was going** (go) to
+   the station to catch a train, and he
+   **was carying** (carry) a bag.
+   They **stopped** (stop) to
+   talk for a few minutes.
+   
+### 14.2 Put the verb into the past continous or simple past.
+
+1. A: Whay was the weather like when you **got** (get) up this morning?
+   B: It **was raining** (rain).
+
+2. A: Was Emma busy when you went to see her?
+   B: Yes, she **was studying** (study).
+
+3. A: **Did Eric call** (Eric/call) you this morning?
+   B: Yes, he **called** (call) while I **was having** (have) breakfast.
+
+4. A: Was Natalie at work today?
+   B: No, she **didn't go** (not/go) to work. She was sick.
+
+5. A: How fast **were you driving** (you/drive) when the police
+      **stopped** (stop) you?
+   B: I'm not sure, but I **was not driving** (not drive) very fast.
+
+6. A: **Did your team win** (your team/win) the baseball game yesterday?
+   B: No, the weather was very bad, so we **didn't play** (not play).
+
+7. A: How **did you break** (you/break) the window?
+   B: We **were playing** (play) baseball. I **hit** (hit) the ball
+      and it **broke** (break) the window?
+
+8. A: **Did you see** (you/see) Jenny last night?
+   B: Yes, she **was wearing** (wear) a very nice jackey.
+
+9. A: Whay **were you doing** (you/do) at 2:00 this morning?
+   B: I **was sleeping** (sleep).
+
+10. A: I **lost** (lose) my key last night.
+    B: How **did you get** (you/get) into your apartment?
+    A: I **climbed** (climb) in through a window.
