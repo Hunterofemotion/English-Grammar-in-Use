@@ -74,6 +74,10 @@
   - [Unit 14 I was doing (past continuous) and I did (simple past)](#unit-14-i-was-doing-past-continuous-and-i-did-simple-past)
     - [14.1 Look at the pictrures. Put the verbs in the correct form, past continous or simple past.](#141-look-at-the-pictrures-put-the-verbs-in-the-correct-form-past-continous-or-simple-past)
     - [14.2 Put the verb into the past continous or simple past.](#142-put-the-verb-into-the-past-continous-or-simple-past)
+  - [Unit 15 I used to...](#unit-15-i-used-to)
+    - [15.1 Look at the pictures. Complete the sentences with used **to...**](#151-look-at-the-pictures-complete-the-sentences-with-used-to)
+    - [Amanda works very hard and has very little free time. A few years ago, things were different.](#amanda-works-very-hard-and-has-very-little-free-time-a-few-years-ago-things-were-different)
+    - [15.3 Complete these sentences. **Used used** to or the simple present (**I play**/**he lives**, etc.).](#153-complete-these-sentences-used-used-to-or-the-simple-present-i-playhe-lives-etc)
 
 # Basic Grammar in Use - Excercises
 
@@ -907,3 +911,38 @@ to her hotel downtown.
 10. A: I **lost** (lose) my key last night.
     B: How **did you get** (you/get) into your apartment?
     A: I **climbed** (climb) in through a window.
+
+## Unit 15 I used to...
+
+### 15.1 Look at the pictures. Complete the sentences with used **to...**
+
+1. She **used to hav**e long hair.
+2. He **used to play** soccer.
+3. She **used to be** a taxi driver.
+4. They **used to live** in the country.
+5. **He used to wear glasses 20 years ago.**
+6. This building **used to be** beautiful a long time ago.
+
+### Amanda works very hard and has very little free time. A few years ago, things were different.
+
+Write sentences about Amanda with **used too...**
+
+1. She used to swim every day.
+2. She used to play volleyball.
+3. She used to play the guitar.
+4. She used to rad a lot.
+5. She used to take two or three trips a year.
+
+
+### 15.3 Complete these sentences. **Used used** to or the simple present (**I play**/**he lives**, etc.).
+
+1. I **used to play** tennis. I stopped playing a few years ago.
+2. "Do you play any sports?" "Yes, I **play** basktball."
+3. "Do you go to work by car?" "No, I **used to have** one, but I sold it."
+4. Kevin **used to be** a waiter. Now he's the manager of a hotel.
+5. "Do you go to work by car?" "Sometines, but most days I **go** by train."
+6. When I was a child, I never **used to eat** meat, but i eat it now.
+7. Hannah loves to watch TV. She watches TV every night.
+8. We **used to live** near the airport, but we moved downtown a few years ago.
+9. Normally I start work  at 7:00, so I **got** up very early.
+10. Where **did** you **used to work** before yoo came to this company?
