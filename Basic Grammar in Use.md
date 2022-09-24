@@ -78,6 +78,8 @@
     - [15.1 Look at the pictures. Complete the sentences with used **to...**](#151-look-at-the-pictures-complete-the-sentences-with-used-to)
     - [Amanda works very hard and has very little free time. A few years ago, things were different.](#amanda-works-very-hard-and-has-very-little-free-time-a-few-years-ago-things-were-different)
     - [15.3 Complete these sentences. **Used used** to or the simple present (**I play**/**he lives**, etc.).](#153-complete-these-sentences-used-used-to-or-the-simple-present-i-playhe-lives-etc)
+  - [Unit 16 Have you?](#unit-16-have-you)
+    - [16.1 You are asking Lauren questions beginning with **Have you ever...?** Write the questions?](#161-you-are-asking-lauren-questions-beginning-with-have-you-ever-write-the-questions)
 
 # Basic Grammar in Use - Excercises
 
@@ -920,8 +922,8 @@ to her hotel downtown.
 2. He **used to play** soccer.
 3. She **used to be** a taxi driver.
 4. They **used to live** in the country.
-5. **He used to wear glasses 20 years ago.**
-6. This building **used to be** beautiful a long time ago.
+5. **He used to wear glasses.**
+6. This building **used to be a hotel.
 
 ### Amanda works very hard and has very little free time. A few years ago, things were different.
 
@@ -929,20 +931,97 @@ Write sentences about Amanda with **used too...**
 
 1. She used to swim every day.
 2. She used to play volleyball.
-3. She used to play the guitar.
-4. She used to rad a lot.
-5. She used to take two or three trips a year.
+3. She used to g out three or four nights a week.
+4. She used to play the guitar.
+5. She used to read a lot.
+6. She used to take two or three trips a year.
 
 
 ### 15.3 Complete these sentences. **Used used** to or the simple present (**I play**/**he lives**, etc.).
 
 1. I **used to play** tennis. I stopped playing a few years ago.
 2. "Do you play any sports?" "Yes, I **play** basktball."
-3. "Do you go to work by car?" "No, I **used to have** one, but I sold it."
+3. "Do you go to work by car?" "No, **I **used to have** one, but I sold it."
 4. Kevin **used to be** a waiter. Now he's the manager of a hotel.
 5. "Do you go to work by car?" "Sometines, but most days I **go** by train."
 6. When I was a child, I never **used to eat** meat, but i eat it now.
-7. Hannah loves to watch TV. She watches TV every night.
+7. Hannah loves to watch TV. She **watches** TV every night.
 8. We **used to live** near the airport, but we moved downtown a few years ago.
 9. Normally I start work  at 7:00, so I **got** up very early.
 10. Where **did** you **used to work** before yoo came to this company?
+
+## Unit 16 Have you?
+
+### 16.1 You are asking Lauren questions beginning with **Have you ever...?** Write the questions?
+
+1. (be / Montreal?) -> **Have you ever been to Montrea?** -> No, never.
+2. (play / golf?) -> **Have you ever played golf?** -> Yes, many times.
+3. (be / South Korea?) -> Have **you ever been in South Korea?** -> Yes, once. 
+4. (lose / your passport?) -> **Have you ever lost your passport?** -> No, never.
+5. (fly / in a helicopter?) -> **Have you ever flown in a helicopter** -> Yes, a few times.
+6. (win / a race?) -> **Have you ever won a race?** -> No, never.
+7. (be / Peru?) -> **Have you ever been in Peru?** -> Yes, twice.
+8. (drive / a bus?) -> **Have you ever driven a bus?** -> No, never.
+9. (break / your leg?) -> **Have you ever broken your leg?** -> Yes, once.
+
+### 16.2 Write sentences about Lauren. (Look at her answers in Excercises 16.1.)
+
+1. (be / Peru) **She's been to Peru twice.**
+2. (be / South Korea) She **has been to South Korea.**
+3. (win / race) **She has never won a race.**
+4. (fly / in a helicopter) **She has flown in a helicopter.**
+
+Now write about yourself. How often have you done tehse things?
+5. (be / New York) I **have never been to New York.**
+6. (play / tennis) **I have played tennis a few times.**
+7. (drive / a truck) **I haven't driven a truck.**
+8. (be / late for work or school) **I have been late for work a few times.**
+
+### 16.3 Mary is 65 years old. She has had an interesting life. What has she done?
+
+1. **She has had many different jobs.**
+2. She **has done a lot of interest things.**
+3. **She has traveled all over the world.**
+4. **She has been married three times.**
+5. **She has wrote 10 books.**
+6. **She has met a lot of interesting people.**
+
+### 16.4 Complete the sentences. Use the present perfect.
+
+1. **I've seen** (I / see) that woman before but I can't remember her name.
+2. "**Have you ever played** (you / ever / play) golf?" "Yes, I play golf a lot."
+3. "**Have you ever written** (you / ever / write) a poem?" "Yes, in high school."
+4. "Does Emma Know Sam?" "No, **she hasn't met** (she / never / meet) him."
+5. Amanda and Josh have lots of books, and **they have read** (they / read) all of the.
+6. **I have never been** (I / never /be) to Australia, but **my brother has been** (my brother / be) there twice.
+7. Danielle's favorite movie is Only Tomorrow. **She has seen** (she / see) it five times, but **I have never seen** (I / never / see) it.
+8. **I have traveled** (I / travel) by plane, bus, and train. Someday, I want to take a trip by boat.
+
+
+## Unit 17 How long have you...?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
