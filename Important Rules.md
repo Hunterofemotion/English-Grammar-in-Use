@@ -1,6 +1,6 @@
-## Unit 3 I am doing (present continous)
+## Unit 3 I am doing (present continuous)
 
-The present continous is:
+The present continuous is:
 **am**/**is**/**are** + do**ing**/eat**ing**/runn**ing**/writ**ing**, etc.
 
 ## Unit 4 are you doing? (present continuous questions)
@@ -106,3 +106,27 @@ Table: *Question*
 | ---------: | :------------ | :--- | --- | -------: | :------------ | :--- |
 |     **do** | I/you/we/they | have | or  | **have** | I/you/we/they | got  |
 |   **does** | he/she/it     | have | or  |  **has** | he/she/it     | got  |
+
+### Present Perfect
+
+Present Perfect = (have + past participle)
+                 I have   played
+               She has    played
+
+### Simple Present vs Present Perfect
+
+Simple Present              Present Perfect
+* Dan and Kate are married. They have been married for five years.
+* Are you married?          How long have you been married?
+* Do you know Lisa?         How long have you know her?
+* I know Lisa.              I have known her for a long time.
+* Vera lives in Brasília.   How long has she lived in Brasília?
+* I have a car?             How long have you had your car? -> I have had it since April.
+
+### Present Continuous vs Present Perfect Continuous
+
+Present Continuous      Present Perfect Continuous
+
+* I'm studying German.  How long have you been studying German?
+* David is watching TV. How long has he been watching TV?
+* It's raining.         It has been raining all day.
