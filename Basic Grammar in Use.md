@@ -1000,28 +1000,116 @@ Now write about yourself. How often have you done tehse things?
 
 ## Unit 17 How long have you...?
 
+### 17.1 Complete these sntences.
+
+1. Rachel is in Brazil. She **has been** there since Monday.
+2. I know Lisa. I **have know** her for a long time.
+3. Amy and Jason are married. They **have been** married since 2005.
+4. Matt is sick. He **has been** sick for the last few days.
+5. We live on Main Street. We **have lived** there for a long time.
+6. Catherine works in a bank. She **has worked** in a bank for five years.
+7. Nick has a headache. He **has had** a headache since he got up this morning.
+8. I'm studying English. I **have been studying** English for six months.
+
+### 17.2 Make questions with **How long...?**
+
+1. Emily is on vacation.        -> **How long has she been on vacation**?
+2. Dan and Megan are in Brazil. -> How long **have they been in Brazil**?
+3. I know Emma.                 -> How long **have** you **know Emma**?
+4. Rachel is studying Italilan. -> **How long has she been studying Italian**?
+5. My brother lives in Seattle. -> **How long has he been living in Seattle**?
+6. I'm a teacher.               -> **How long have you been a teacher**?
+7. It is raining.               -> **How long has been raining**?
+
+### 17.3 Look at the pictures and complete the sentences with:
+
+* for 10 minutes
+* for 10 years
+* all day
+* since he was 20
+* all her life
+* since Sunday
+
+1. **They have been married for 10 yers.**
+2. She **has lived in South Korea all her life.**
+3. They **have been on vacation since Sunday.**
+4. The sun **has been shinning all day.**
+5. She **has been waiting for a bus for 10 minutes.**
+6. He **has had a beard since he was 20.**
+
+### 17.4 Which is right?
+
+1. Ryan **has lived** in Canada since Aplir.
+2. Olivia and I are friends. **I know** her very well. 
+3. Olivia and I are friends. **I have know** her for a long time.
+4. A: Sorry I'm late. How long **have you been waiting**?
+   B: Not long. Only five minutes.
+5. John **works** in a hotel now. He likes is job a lot.
+6. Amanda is reading a newspaper. **She has been reading** it for two hours.
+7. "How long **have you lived** in this house?" "About 10 years."
+8. "Is that a new coat?" "No, **I have had** this coat for a long time."
+9. Tom **is** in Seattle right now. **He has been** there for the last thre days.
 
 
+## Unit 18 for since ago
 
+### 18.1 Write **for** or **since**.
 
+1. Rachel has been in Brazin **since** Monday.
+2. Rachel has been in Brazil **for** three days.
+3. My aunt has lived in Australia **for** 15 years.
+4. Jennifer is in her office. She has been there **since** 7:00.
+5. Mexico has been an independent country **since** 1821.
+6. The bus is late. We've been waiting **for** 20 minutes.
+7. Nobody lives in those houses. They have been empty **for** many years.
+8. Michael has been sick **for** a long time. He has been in the hospital **since** October.
 
+### 18.2 Answer these questions. Use **ago**.
 
+1. When was the last time you ate? -> **Three hours ago.**
+2. When was the last time you were sick? -> **Eight months ago.**
+3. When was the last time you went to the movies? -> **Five months ago.**
+4. When was the last time you were in a car? -> **One week ago.**
+5. When was the last time you went on vacation? -> **One year ago.**
 
+### 18.3 Complete the sentences. Use **for** or **ago** with these words.
 
+1. Rachel arrived in Brazil **three days ago.**
+2. Rachel has been in Brazil **for three days.**
+3. Stephanie and Robert have been married **for 20 years.**
+4. Stephanie and Robert got married **20 years ago.**
+5. Dan arrived **an hour ago.**
+6. I bought these shes **a few days ago.**
+7. Ana has been studying English **for six months.**
+8. Have you know Allison **for a long time**?
 
+### 18.4 Complete the sentences with **for** or **since**.
 
+1. (Rachel is in Brazil - she arrived there three day ago)
+   **Rachel has been in Brazil for three days.**
+2. (Jack is here - he arrived on Tuesday)
+   Jack has **been here since Tuesday.**
+3. (It's raining - it started an hour ago)
+   It has been **raining for an hour.**
+4. (I know Sue - I met her in 2008)
+   I have **know Sue since 2008.**
+5. (Emily and Matthew are married - they got married six months ago)
+   Emily and Matthew have **been married for six months.**
+6. (Liz is studying medicine - she started three years ago)
+   Liz has **been studying medicine for three years.**
+7. (David plays the piano - he started when he was seven years old)
+   David has **been playing the piano since he was seven years old.**
 
+### Unit 18.5 Write sentences about yourself. Begin your sentences with:
 
+* I've lived...
+* I've been...
+* I've been studying...
+* I've known...
+* I've had...
 
-
-
-
-
-
-
-
-
-
-
-
-
+1. I've lived in this town for three yeats.
+2. I've been a computer a software developer for eight years.
+3. I've been studying english since elementry school.
+4. I've knwon my friend Maggy for five years.
+5. I've had my computer for almost three years.
